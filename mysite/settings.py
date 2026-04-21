@@ -1,4 +1,3 @@
-```python
 """
 Django settings for mysite project.
 Production-ready configuration for cloud deployment.
@@ -119,4 +118,3 @@ STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 # 🔢 DEFAULT PRIMARY KEY
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-```
