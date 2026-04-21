@@ -1,7 +1,0 @@
-Django==3.2
-djangorestframework==3.12.4
-django-filter==2.4.0
-gunicorn
-whitenoise
-dj-database-url
-psycopg2-binary
